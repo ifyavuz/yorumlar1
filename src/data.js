@@ -1,4 +1,4 @@
-
+// Bu alanda bilgiler yer almaktadır. Dataların beslendiği js dosyasıdır. Tüm yorumlar buradadır.
 const reviews = [
     {
       id: 1,
